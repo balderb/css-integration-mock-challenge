@@ -6,6 +6,6 @@ As often is with CSS, this is an exercise in precision and accuracy (and a zest 
 
 For each interface we have to:
 
-Create a standard html page based on the html5boilerplate
-Create a standard style.css stylesheet
-Add the relevant HTML and CSS code so that the end result looks exactly as the provided high-fidelity mockup images.
+Create a standard html page based on the html5boilerplate <br>
+Create a standard style.css stylesheet <br>
+Add the relevant HTML and CSS code so that the end result looks exactly as the provided high-fidelity mockup images. <br>
