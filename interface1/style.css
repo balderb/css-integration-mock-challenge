@@ -1,0 +1,19 @@
+img {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+img.npm {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+  }
+
+
