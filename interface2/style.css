@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #4385DD;
+}
+
+body {
+    Color: white;
+    padding: 20px;
+}
+
+.grid-container {
+    background-color:;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
