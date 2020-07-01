@@ -13,9 +13,9 @@ With other words, make it look pixel perfect. Use only HTML & CSS (SCSS).
 
 
 # add clickable link per interface: 
-Interface 1
-interface 2
-interface 3
+Interface 1<br>
+interface 2<br>
+interface 3<br>
 
 
 
