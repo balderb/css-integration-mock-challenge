@@ -9,3 +9,13 @@ For each interface we have to:
 Create a standard html page based on the html5boilerplate <br>
 Create a standard style.css stylesheet <br>
 Add the relevant HTML and CSS code so that the end result looks exactly as the provided high-fidelity mockup images. <br>
+With other words, make it look pixel perfect. Use only HTML & CSS (SCSS).
+
+
+# add clickable link per interface: 
+Interface 1
+interface 2
+interface 3
+
+
+
