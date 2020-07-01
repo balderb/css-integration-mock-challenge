@@ -13,9 +13,14 @@ With other words, make it look pixel perfect. Use only HTML & CSS (SCSS).
 
 
 # add clickable link per interface: 
-Interface 1<br>
-interface 2<br>
-interface 3<br>
+[Interface 1](https://laughing-brown-7a9473.netlify.app/).<br>
+[Interface 2](https://practical-engelbart-1da851.netlify.app/).<br>
+[Interface 3](https://vigilant-perlman-1bc652.netlify.app/).<br>
+
+
+
+
+
 
 
 
