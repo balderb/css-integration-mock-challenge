@@ -1,5 +1,5 @@
-# css-integration-mock-challenge
-css-integration-mock-challenge trial exam becode
+# Css-integration-mock-challenge
+css-integration-mock-challenge trial exam @becode Ghent
 
 In this exercise you will build three full integrations.
 As often is with CSS, this is an exercise in precision and accuracy (and a zest of dementia, because... CSS).
